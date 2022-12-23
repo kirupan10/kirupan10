@@ -1,4 +1,3 @@
-[![MasterHead](https://docs.flutter.dev/assets/images/flutter-logo-sharing.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Kirupan Inpathas</h1>
 <h3 align="center">A passionate backend developer</h3>
 <br>
