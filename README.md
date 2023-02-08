@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/10kirupan" target="blank"><img src="https://img.shields.io/twitter/follow/10kirupan?logo=twitter&style=for-the-badge" alt="10kirupan" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter** and **Laravel**
 
 - 📝 I regularly write articles on [https://medium.com/@Kirupan](https://medium.com/@Kirupan)
 
@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **ikirupan@gmail.com**
 
-- ⚡ Fun fact **I can write the same code in python, php and C**
+- ⚡ Fun fact **I can write the same code in python, php, Ruby, JS and C**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
